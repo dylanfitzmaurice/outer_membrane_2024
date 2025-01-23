@@ -1,7 +1,7 @@
 %LTMultiColorDecode.m
 %3/28/19, Rico Rojas, lines 1-87
 %Dylan Fitzmaurice, 08/21/20, lines 88-end
-%To be used after BacTrack of 3 different channels.  
+%To be used after BacTrack2.  
 %Decodes multiple bacterial strains based on fluorescent labels.
 %Save color decode images as an image sequence in a separate directory with
 %saved image order: phase, GFP, RFP, CY5, CY7, DAPI.
